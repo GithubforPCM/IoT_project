@@ -29,7 +29,7 @@ Subject - Iot project
 ![Screenshot from 2024-03-20 06-45-37](https://github.com/GithubforPCM/deeplearning_object_detection_project/assets/138741169/c7063b74-8ed5-403f-8dd9-6e9868f5dbd9)
 
 
-4.Executing videos
+4.Videos
 -------------------
 * <https://www.youtube.com/watch?v=K67LhwD1OiA>
 * <https://www.youtube.com/watch?v=hqozBTRymew>
